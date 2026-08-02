@@ -1,0 +1,10 @@
+{
+  "name": "aixfactory-v17-master",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "jszip": "^3.10.1",
+    "dotenv": "^16.0.0"
+  }
+}
