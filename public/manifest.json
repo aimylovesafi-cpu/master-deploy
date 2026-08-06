@@ -1,0 +1,29 @@
+{
+ "name": "MASTER DEPLOY APP BUILDER",
+ "short_name": "MASTER-DEPLOY",
+ "description": "AI Application Generator",
+ "start_url": "/",
+ "display": "standalone",
+ "display_override": ["standalone", "fullscreen"],
+ "background_color": "#050510",
+ "theme_color": "#050510",
+ "orientation": "portrait",
+ "icons": [
+ {
+ "src": "/logo.png",
+ "sizes": "192x192",
+ "type": "image/png"
+ },
+ {
+ "src": "/logo.png",
+ "sizes": "512x512",
+ "type": "image/png"
+ },
+ {
+ "src": "/logo.png",
+ "sizes": "180x180",
+ "type": "image/png",
+ "purpose": "apple touch icon"
+ }
+ ]
+}
